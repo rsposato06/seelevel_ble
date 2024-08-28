@@ -1,0 +1,9 @@
+{
+  "domain": "seelevel_ble",
+  "name": "SeeLevel BLE",
+  "version": "1.0",
+  "documentation": "https://github.com/rsposato06/seelevel_ble",
+  "dependencies": [],
+  "codeowners": ["@rsposato06"],
+  "requirements": ["bleak>=0.14.0"]
+}
